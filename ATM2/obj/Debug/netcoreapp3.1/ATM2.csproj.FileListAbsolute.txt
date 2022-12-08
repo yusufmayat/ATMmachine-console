@@ -1,0 +1,13 @@
+C:\Users\yusuf\source\repos\ATM2\ATM2\bin\Debug\netcoreapp3.1\ATM2.exe
+C:\Users\yusuf\source\repos\ATM2\ATM2\bin\Debug\netcoreapp3.1\ATM2.deps.json
+C:\Users\yusuf\source\repos\ATM2\ATM2\bin\Debug\netcoreapp3.1\ATM2.runtimeconfig.json
+C:\Users\yusuf\source\repos\ATM2\ATM2\bin\Debug\netcoreapp3.1\ATM2.runtimeconfig.dev.json
+C:\Users\yusuf\source\repos\ATM2\ATM2\bin\Debug\netcoreapp3.1\ATM2.dll
+C:\Users\yusuf\source\repos\ATM2\ATM2\bin\Debug\netcoreapp3.1\ATM2.pdb
+C:\Users\yusuf\source\repos\ATM2\ATM2\obj\Debug\netcoreapp3.1\ATM2.csprojAssemblyReference.cache
+C:\Users\yusuf\source\repos\ATM2\ATM2\obj\Debug\netcoreapp3.1\ATM2.AssemblyInfoInputs.cache
+C:\Users\yusuf\source\repos\ATM2\ATM2\obj\Debug\netcoreapp3.1\ATM2.AssemblyInfo.cs
+C:\Users\yusuf\source\repos\ATM2\ATM2\obj\Debug\netcoreapp3.1\ATM2.csproj.CoreCompileInputs.cache
+C:\Users\yusuf\source\repos\ATM2\ATM2\obj\Debug\netcoreapp3.1\ATM2.dll
+C:\Users\yusuf\source\repos\ATM2\ATM2\obj\Debug\netcoreapp3.1\ATM2.pdb
+C:\Users\yusuf\source\repos\ATM2\ATM2\obj\Debug\netcoreapp3.1\ATM2.genruntimeconfig.cache
